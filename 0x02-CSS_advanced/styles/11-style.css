@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Elements with class section tagline */
 .section-tagline {
     color: var(--color-primary);
-    font: var(--font-family-title);
+    font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
 }
