@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Elements with class section-header */
 .section-header {
-    horizontal-align: var(--section-header-align)
+    text-align: var(--section-header-align)
 }
 
 /* Elements with class section tagline */
