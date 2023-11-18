@@ -174,9 +174,9 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--nav-item-link-hover);
 }
 
-.row .ul {
+.row ul {
     margin: 0;
-    padding: none;
+    padding: 0;
     list-style: none;
 }
 
@@ -193,11 +193,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-copyright {
-    margin: none;
+    margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
 
-.footer .ul {
+.footer ul {
     text-align: right;
 }
