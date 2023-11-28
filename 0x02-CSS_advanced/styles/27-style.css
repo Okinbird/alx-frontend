@@ -177,8 +177,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Section Hero */
 .section-hero {
-    background-size: 200px 100px;
-    width: 90rem;
+    background-size: 90rem auto;
 }
 
 .section-hero .section-title {
