@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Services Section - hover and background */
 .card-services .card-title {
-    margin: none;
+    margin: 0;
 }
 
 .card-services a {
