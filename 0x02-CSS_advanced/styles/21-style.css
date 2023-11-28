@@ -181,16 +181,19 @@ ul.row {
     list-style: none;
 }
 
+/* Update with col-seletor by removing float and padding */
 .col-1-3 {
     width: 33.33%;
-    float: left;
+ /* float: left;
     padding: 0.5rem;
+*/
 }
 
 .col-1-2 {
     width: 50%;
-    float: left;
+/*  float: left;
     padding: 0.5rem;
+*/
 }
 
 .footer-copyright {
@@ -211,7 +214,7 @@ ul.row {
 }
 
 /* col-selector class */
-[class^="col-"] {
+[class*="col-"] {
     float: left;
     padding: 0.5rem;
 }
