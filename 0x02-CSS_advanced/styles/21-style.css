@@ -210,7 +210,8 @@ ul.row {
     clear: both;
 }
 
-[class*="col-"] {
+/* col-selector class */
+[class^="col-"] {
     float: left;
     padding: 0.5rem;
 }
